@@ -8,7 +8,6 @@ margin:0 auto;
 padding:0 auto;	
 margin-top:10px;
 background-color:#666
-
 }
 
 #wrapper {
@@ -24,7 +23,7 @@ height:150px;
 width:980px;
 margin:0;
 padding:0;
-	}
+}
 	
 #logo {
 height: 125px;
@@ -40,7 +39,7 @@ float: left;
 height: 40px;
 margin: 40px 0 0 150px;
 width: 400px	
-	}
+}
 	
 #login {
 width: 100px;
@@ -49,7 +48,7 @@ float: left;
 height: auto;
 margin: 40px 0 0 83px;
 width: 110px;
-	}
+}
 	
 #cart {
 height:70px;
@@ -64,8 +63,7 @@ height:200px;
 width:980px;
 margin:0;
 padding:0;
-
-	}
+}
 
 #nav { 
 height:40px;
@@ -83,7 +81,6 @@ li {
 display: inline;
 float:left;
 padding:10px 50px 0 20px;
-
 }
 
 #promo {
@@ -163,22 +160,20 @@ padding:0 0 0 40px;
 
 /* code for links */ 
 	
-a:link    {
+a:link{
 color:red;
-	}
+}
 
-a:visited {
-	color:white;
-	}
-a:hover   {
-	color:white;
-	}
+a:visited{
+color:white;
+}
+a:hover{
+color:white;
+}
 	
 p{
 font-family:Verdana,Arial,Helvetica,sans-serif;
 font-size:14px;	
 }
-
-
 
 
